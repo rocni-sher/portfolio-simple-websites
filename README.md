@@ -12,6 +12,6 @@ HTML
 CSS
 How to View
 Clone this repository:
-git clone https://github.com/<your-username>/portfolio-website.git
+
 Open the index.html file for the Home page, and navigate to the contact.html file for the Contact page.
 # portfolio-simple-websites
